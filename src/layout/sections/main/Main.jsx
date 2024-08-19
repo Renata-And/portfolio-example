@@ -25,7 +25,7 @@ const Photo = styled.img`
   object-fit: cover;
 `;
 
-const StyledMain = styled.main`
-  height: 100vh;
+const StyledMain = styled.div`
+  min-height: 100vh;
   background-color: #edffd5;
 `;
