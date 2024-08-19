@@ -31,5 +31,5 @@ export const Works = () => {
 
 const StyledWorks = styled.section`
   background-color: #f7e8cc;
-  height: 100vh;
+  min-height: 100vh;
 `
